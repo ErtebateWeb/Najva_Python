@@ -1,0 +1,1 @@
+change config-sample.py to config.py
